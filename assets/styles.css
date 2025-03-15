@@ -59,6 +59,7 @@ body {
 .card {
   background-color: #918751;
   margin: 3%;
+  border: double 5px #ceba9e;
   
 }
 .card-body{
