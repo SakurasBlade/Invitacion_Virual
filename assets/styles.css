@@ -73,7 +73,7 @@ body {
 }
 iframe{
   margin: 0 auto;
-  max-width: 100%;
+  max-width: fit-content%;
   border: double #918751 10px;  
 }
 ul{
