@@ -64,6 +64,20 @@ body {
 .card-body{
   
 }
+.ubic{
+  margin: auto;
+  align-items: center;
+  background-color:#ceba9e;
+  border: #918751 double 5px;
+
+}
+iframe{
+  margin: 0 auto;
+  max-width: fit-content;
+  border: double #918751 10px;
+  
+  
+}
 ul{
   margin: 10px;
   font-size: 1rem;
