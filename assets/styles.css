@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=Cookie&family=Monsieur+La+Doulaise&family=Petit+Formal+Script&display=swap");
+.cookie {
+  font-family: "Cookie", cursive;
+  font-weight: 200;
+  font-style: italic;
+  font-size: 2rem;
+  color: #473d04;
+}
+.monsi {
+  font-family: "Monsieur La Doulaise", cursive;
+  font-weight: 200;
+  font-size: 4rem;
+  color: #473d04;
+}
+
+.petit {
+  font-family: "Petit Formal Script", cursive;
+  font-weight: 200;
+  font-style: italic;
+  font-size: 2rem;
+  color: #3d3702;
+}
+.cookie-mini {
+  font-family: "Cookie", cursive;
+  font-weight: 200;
+  font-style: italic;
+  color: #3d3702;
+}
+.cookie-minil {
+  font-family: "Cookie", cursive;
+  font-weight: 200;
+  font-style: italic;
+  color: #ddd9d5;
+}
+
+body {
+  background-color: #ffedd0;
+  animation-name: bganim;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+  text-align: center;
+  display: block;
+  align-items: center;
+}
+#content {
+  margin: auto;
+  align-items: center;
+  display: block;
+}
+
+.Reglas {
+  background-color: #ceba9e;
+  padding: 20px;
+}
+.container {
+  margin: auto;
+  justify-content: center;
+}
+.card {
+  background-color: #68693f;
+  margin: 1%;
+}
+li{
+  text-align: center;
+}
+
+@keyframes bganim {
+  from {
+    background-color: #ffedd0;
+  }
+  to {
+    background: color #fde3b9;
+  }
+}
